@@ -6,4 +6,4 @@
 2. VPC has 2 public subnets with each having one EC2 instance configured using iam rule.
 3. VPC is connected of internet gateway so that internet can access the instances created.
 4. Have route tables to define that this internet gateway should be connected to the particular subnet.
-5. Put the EC2 instances behind the load balancer and give them s3 access. 
+5. Put the EC2 instances behind the load balancer and give them s3 access.
